@@ -1,6 +1,6 @@
 # message-driven-using-kafka
 
-### Need
+### Prerequisites
 - Apache Kafka (I used : [this Docker Compose](https://github.com/bitnami/bitnami-docker-kafka))
   - You will be need [this configuration](https://github.com/bitnami/bitnami-docker-kafka#accessing-kafka-with-internal-and-external-clients) when develop Spring Boot Application with Kafka Cluster
 
